@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telelinker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -322,3 +323,8 @@ Need help? Here are several options:
 ---
 
 **Like Telelinker?** ⭐ Give the repository a star and share it with other developers!
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ykj1qgxA)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21419031)
+# proyecto-formatos-012
+>>>>>>> 9c2d0319ae8ae1e51c5608f928899bcb4f335246
